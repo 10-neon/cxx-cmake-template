@@ -15,4 +15,3 @@ PackConstructorInitializers: Never
 BreakConstructorInitializersBeforeComma: false
 IndentPPDirectives: BeforeHash
 SortIncludes:    Never
-...

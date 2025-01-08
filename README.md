@@ -26,3 +26,6 @@ clang-format + https://pre-commit.com/
 
 pipx install pre-commit
 pre-commit install
+
+cmake autoupdate version
+https://semver.org/

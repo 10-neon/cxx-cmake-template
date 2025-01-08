@@ -8,3 +8,4 @@
 # build
 # clion build
 cmake-build-debug
+inc/version.h

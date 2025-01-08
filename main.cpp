@@ -1,6 +1,7 @@
 #include <iostream>
+#include "inc/version.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << buildinfo::version << std::endl;
     return 0;
 }
