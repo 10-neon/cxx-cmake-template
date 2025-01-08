@@ -1,0 +1,7 @@
+# editor
+.idea
+.vscode
+
+# build
+# clion build
+cmake-build-debug
