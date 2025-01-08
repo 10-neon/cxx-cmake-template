@@ -2,6 +2,9 @@
 .idea
 .vscode
 
+# python
+.venv
+
 # build
 # clion build
 cmake-build-debug

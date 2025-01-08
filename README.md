@@ -20,3 +20,9 @@ asan
 coverity
 ci
 https://code.byted.org/lab-audio/cmake_tutorial_example/blob/master/fftutils/CMakeLists.txt?ref_type=heads
+
+
+clang-format + https://pre-commit.com/
+
+pipx install pre-commit
+pre-commit install
