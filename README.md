@@ -1,5 +1,5 @@
-# C++ Cross Platform Template
-
+# C++ Cross Platform Template (WIP)
+It's not ready for use yet.
 ## Feature
 - [x] pre-commit-check
 - [x] clang-format
