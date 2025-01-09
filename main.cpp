@@ -1,5 +1,5 @@
 #include <iostream>
-#include "inc/version.h"
+#include "version.h"
 
 int main() {
     std::cout << buildinfo::version << std::endl;

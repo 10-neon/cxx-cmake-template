@@ -1,3 +1,5 @@
+# C++ Cross Platform Template
+
 C++ cross platform
 vcpkg
 ninja
